@@ -1,3 +1,6 @@
+Author: Sharan Kumar Ravindran
+<br />
+<br />
 This sample code consist of Exploratory Data Analysis on a data-set
 <br />
 <br />
